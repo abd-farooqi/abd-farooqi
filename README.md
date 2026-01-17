@@ -45,9 +45,9 @@ A professional construction company website showcasing projects and services wit
 ---
 
 ### All in 1 Rentals
-A rental property management platform with property listings, booking system, and tenant portal.
+A Boats, Luxury Cars, Private Jets platform with property listings, booking system, and tenant portal.
 
-**Tech:** HTML, CSS, JavaScript | [Visit Site →](https://a1r-td.vercel.app)
+**Tech:** Next.js Tailwind CSS, shadcn UI | [Visit Site →](https://a1r-td.vercel.app)
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Farooqi
 
-**Frontend Engineer** @ TrueDevs | Building modern web experiences with React & Next.js
+**Frontend Engineer** @ [TrueDevs](https://www.truedevs.tech) | Building modern web experiences with React & Next.js
 
 ---
 

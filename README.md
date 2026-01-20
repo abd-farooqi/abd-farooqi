@@ -21,36 +21,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### AnjomaZone
-A complete e-commerce platform with product management, shopping cart, and secure payment integration.
-
-**Tech:** Next.js | [Visit Site →](https://anjomazone.com)
-
----
-
-### Islamic School of Brantford
-A comprehensive school management system for administrators, teachers, students, and parents.
-
-**Tech:** SvelteKit | [Visit Site →](https://pischools.ca)
-
----
-
-### RM Builders
-A professional construction company website showcasing projects and services with modern design.
-
-**Tech:** Next.js, Tailwind CSS, Framer Motion | [Visit Site →](https://rm-builders-f6id.vercel.app)
-
----
-
-### All in 1 Rentals
-A Boats, Luxury Cars, Private Jets platform with property listings, booking system, and tenant portal.
-
-**Tech:** Next.js Tailwind CSS, shadcn UI | [Visit Site →](https://a1r-td.vercel.app)
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">

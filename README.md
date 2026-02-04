@@ -37,6 +37,6 @@
 
 <div align="center">
 
-⭐*Open for collaboration and new opportunities*
+⭐ *Open for collaboration and new opportunities*
 
 </div>

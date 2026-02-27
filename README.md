@@ -40,8 +40,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abd-farooqi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd-farooqi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=abd-farooqi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abd-farooqi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 
 </div>
 
@@ -53,11 +53,29 @@
 
 ---
 
-## Trophies
+## Profile Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abd-farooqi&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-farooqi&theme=tokyonight" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-farooqi&theme=tokyonight" height="180" alt="Productive Time" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abd-farooqi&theme=tokyonight" height="180" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abd-farooqi&theme=tokyonight" height="180" alt="Most Commit Language" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abd-farooqi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

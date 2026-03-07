@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Abdullah+Farooqi;Frontend+Engineer+%40+TrueDevs;React+%26+Next.js+Specialist)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abd-farooqi&style=flat-square&color=7AA2F7&label=Profile+Visits)](https://github.com/abd-farooqi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Abdullah+Farooqi;Frontend+Engineer+%40+TrueDevs;React+%26+Next.js+Developer)](https://git.io/typing-svg)
 
 </div>
 

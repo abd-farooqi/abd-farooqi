@@ -6,7 +6,7 @@
 
 ---
 
-**Frontend Engineer** @ [TrueDevs](https://www.truedevs.tech) — building production-grade web apps with React & Next.js. Focused on clean UI, performance, and great developer experience.
+**Frontend Engineeer** @ [TrueDevs](https://www.truedevs.tech) — building production-grade web apps with React & Next.js. Focused on clean UI, performance, and great developer experience.
 
 ---
 

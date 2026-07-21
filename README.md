@@ -10,10 +10,9 @@ Now leveling up to fullstack, learning backend fast and hands-on.<br/>
 
 ### What I've been building
 
-- **[Samsú](https://samsu.ie)** — hospitality brand site with a scroll-driven "traveling illustration" system: `fixed` positioning + `getBoundingClientRect()` tracking the viewport center across page sections, bracketed edge behavior, and viewport-bleed accordion layouts built with Tailwind pseudo-elements.
-- **[PRS](https://prs-td.vercel.app)** — party/event rental platform with a full product filtering system: horizontal quick-filter bar with per-facet popovers, responsive overlay drawer, URL-synced filter state.
-- **[Anjomazone](https://anjomazone.com)** — e-commerce build with TrueDevs.
-- **[All in 1 Rentals](https://allin1rentals.com)** — rental platform, TrueDevs.
+- **[Samsú](https://samsu.ie)** — Digital Detox cabins site build with TrueDevs.
+- **[Anjomazone](https://anjomazone.com)** — Party Rantals site build with TrueDevs.
+- **[All in 1 Rentals](https://allin1rentals.com)** — luxury boats rental platform, TrueDevs.
 - **[PI Schools](https://pischools.ca)** — my first ever shipped app, built with Tailwind CSS and shipped straight to production.
 
 ### Stack I actually use

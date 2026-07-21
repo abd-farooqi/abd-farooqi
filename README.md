@@ -1,12 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Abdullah+Farooqi;Frontend+Engineer+%40+TrueDevs;React+%26+Next.js+Developer)](https://git.io/typing-svg)
-
-</div>
-
----
-
-**Frontend Engineer** @ [TrueDevs](https://www.truedevs.tech) — building production-grade web apps with React & Next.js. Focused on clean UI, performance, and great developer experience.
+**Abdullah Farooqi - Frontend Engineer** @ [TrueDevs](https://www.truedevs.tech)
 
 ---
 
@@ -19,13 +11,6 @@
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=abd-farooqi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-</div>
 
 <div align="center">
 

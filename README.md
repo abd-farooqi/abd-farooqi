@@ -1,6 +1,4 @@
 <h1 align="center">Hey, I'm Abdullah 👋</h1>
-
-<h1 align="center">Abdullah Farooqi</h1>
 <p align="center"><i>Frontend Engineer — TrueDevs</i></p>
 
 ```ts
@@ -23,8 +21,7 @@ class Abdullah {
 
 | Project | What was hard about it |
 |---|---|
-| **[Samsú](https://samsu.ie)** | A single illustration "travels" down the About page tracking viewport center via `fixed` positioning + `getBoundingClientRect()`, with invisible placeholder divs preserving grid flow across sections |
-| **[PRS](https://prs-td.vercel.app)** | Multi-facet product filtering — horizontal quick-filter bar, per-facet popovers, responsive drawer, all synced to the URL as source of truth |
+| **[Samsú](https://samsu.ie)** | Digital detox cabins site, TrueDevs |
 | **[Anjomazone](https://anjomazone.com)** | E-commerce build, TrueDevs |
 | **[All in 1 Rentals](https://allin1rentals.com)** | Rental platform, TrueDevs |
 | **[PI Schools](https://pischools.ca)** | First app I ever shipped — solo, straight to production, Tailwind from scratch |

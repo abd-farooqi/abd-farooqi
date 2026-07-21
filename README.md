@@ -1,35 +1,34 @@
 <h1 align="center">Hey, I'm Abdullah 👋</h1>
 
-<p align="center">
-Frontend Engineer at <b>TrueDevs</b> — I build production Next.js/React apps and go deep on the details most people skip.<br/>
-Now leveling up to fullstack, learning backend fast and hands-on.<br/>
-⚡️ Fun fact: I love gaming, in fact — "better than you 🤓"
-</p>
+<h1 align="center">Abdullah Farooqi</h1>
+<p align="center"><i>Frontend Engineer — TrueDevs</i></p>
 
----
+```ts
+class Abdullah {
+  private stack = ["Next.js (App Router)", "React", "TypeScript", "Tailwind"];
+  private currentMode: "frontend" | "fullstack" = "fullstack"; // learning backend, fast
 
-### What I've been building
+  ship(problem: string): "production" {
+    // no half-measures — pixel-perfect or it doesn't merge
+    return "production";
+  }
 
-- **[Samsú](https://samsu.ie)** — Digital Detox cabins site build with TrueDevs.
-- **[Anjomazone](https://anjomazone.com)** — Party Rantals site build with TrueDevs.
-- **[All in 1 Rentals](https://allin1rentals.com)** — luxury boats rental platform, TrueDevs.
-- **[PI Schools](https://pischools.ca)** — my first ever shipped app, built with Tailwind CSS and shipped straight to production.
+  funFact(): string {
+    return "better than you at gaming 🤓";
+  }
+}
+```
 
-### Stack I actually use
+### Shipped
 
-`React` `Next.js (App Router)` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Git`
+| Project | What was hard about it |
+|---|---|
+| **[Samsú](https://samsu.ie)** | A single illustration "travels" down the About page tracking viewport center via `fixed` positioning + `getBoundingClientRect()`, with invisible placeholder divs preserving grid flow across sections |
+| **[PRS](https://prs-td.vercel.app)** | Multi-facet product filtering — horizontal quick-filter bar, per-facet popovers, responsive drawer, all synced to the URL as source of truth |
+| **[Anjomazone](https://anjomazone.com)** | E-commerce build, TrueDevs |
+| **[All in 1 Rentals](https://allin1rentals.com)** | Rental platform, TrueDevs |
+| **[PI Schools](https://pischools.ca)** | First app I ever shipped — solo, straight to production, Tailwind from scratch |
 
-### 🌐 Find me
+### Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-farooqi-6147b839b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32413507) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@A_SaFii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahfarooqi332008@gmail.com)
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=abd-farooqi&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abd-farooqi&theme=transparent&hide_border=true&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=abd-farooqi&icon=5&color=0e75b6" alt="profile views"/></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/abdullah-farooqi-6147b839b) · [Stack Overflow](https://stackoverflow.com/users/32413507) · [YouTube](https://www.youtube.com/@A_SaFii) · [Email](mailto:abdullahfarooqi332008@gmail.com)

@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Abdullah 👋</h1>
 
 <p align="center">
-Frontend Engineer at <b>TrueDevs</b> — I build production Next.js/React apps and go deep on the details most people skip.
+Frontend Engineer at <b>TrueDevs</b> — I build production Next.js/React apps and go deep on the details most people skip.<br/>
+Now leveling up to fullstack, learning backend fast and hands-on.<br/>
+⚡️ Fun fact: I love gaming, in fact — "better than you 🤓"
 </p>
 
 ---
@@ -12,7 +14,7 @@ Frontend Engineer at <b>TrueDevs</b> — I build production Next.js/React apps a
 - **[PRS](https://prs-td.vercel.app)** — party/event rental platform with a full product filtering system: horizontal quick-filter bar with per-facet popovers, responsive overlay drawer, URL-synced filter state.
 - Off the clock, I solve hard algorithmic problems for fun — wrote a **JS → Lambda Calculus compiler** with a Church numeral evaluator (lexer, recursive-descent parser, Z-combinator recursion), and a **7×7 Skyscrapers solver** using AC-3 constraint propagation + MRV backtracking.
 
-### Stack I use
+### Stack I actually use
 
 `React` `Next.js (App Router)` `TypeScript` `Tailwind CSS` `Node.js` `Express` `PostgreSQL` `Git`
 

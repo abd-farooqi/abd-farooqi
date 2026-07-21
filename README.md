@@ -1,4 +1,4 @@
-# 💫 About Me: 🔭 I'm currently working on UIs at TrueDevs<br>🤝 Looking for help and guides on backend<br>🍁 Learning backend constantly<br>⚡️ Fun fact: I love gaming, infact "better than you 🤓" <br>
+🔭 I'm currently working on UIs at TrueDevs<br>🤝 Looking for help and guides on backend<br>🍁 Learning backend constantly<br>⚡️ Fun fact: I love gaming, infact "better than you 🤓" <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-farooqi-6147b839b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32413507) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@A_SaFii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullahfarooqi332008@gmail.com) 

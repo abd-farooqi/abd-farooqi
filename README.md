@@ -10,9 +10,11 @@ Now leveling up to fullstack, learning backend fast and hands-on.<br/>
 
 ### What I've been building
 
-- **[Samsú](https://samsu.com)** — hospitality brand site with a scroll-driven "traveling illustration" system: `fixed` positioning + `getBoundingClientRect()` tracking the viewport center across page sections, bracketed edge behavior, and viewport-bleed accordion layouts built with Tailwind pseudo-elements.
+- **[Samsú](https://samsu.ie)** — hospitality brand site with a scroll-driven "traveling illustration" system: `fixed` positioning + `getBoundingClientRect()` tracking the viewport center across page sections, bracketed edge behavior, and viewport-bleed accordion layouts built with Tailwind pseudo-elements.
 - **[PRS](https://prs-td.vercel.app)** — party/event rental platform with a full product filtering system: horizontal quick-filter bar with per-facet popovers, responsive overlay drawer, URL-synced filter state.
-- Off the clock, I solve hard algorithmic problems for fun — wrote a **JS → Lambda Calculus compiler** with a Church numeral evaluator (lexer, recursive-descent parser, Z-combinator recursion), and a **7×7 Skyscrapers solver** using AC-3 constraint propagation + MRV backtracking.
+- **[Anjomazone](https://anjomazone.com)** — e-commerce build with TrueDevs.
+- **[All in 1 Rentals](https://allin1rentals.com)** — rental platform, TrueDevs.
+- **[PI Schools](https://pischools.ca)** — my first ever shipped app, built with Tailwind CSS and shipped straight to production.
 
 ### Stack I actually use
 
@@ -30,5 +32,5 @@ Now leveling up to fullstack, learning backend fast and hands-on.<br/>
 </p>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=abd-farooqi&icon=5&color=1" alt="profile views"/></a>
+<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=abd-farooqi&icon=5&color=0e75b6" alt="profile views"/></a>
 </p>

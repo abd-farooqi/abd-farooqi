@@ -16,16 +16,6 @@ class Abdullah {
   }
 }
 ```
-
-### Shipped
-
-| Project | What was hard about it |
-|---|---|
-| **[Samsú](https://samsu.ie)** | Digital detox cabins site, TrueDevs |
-| **[Anjomazone](https://anjomazone.com)** | E-commerce build, TrueDevs |
-| **[All in 1 Rentals](https://allin1rentals.com)** | Rental platform, TrueDevs |
-| **[PI Schools](https://pischools.ca)** | First app I ever shipped — solo, straight to production, Tailwind from scratch |
-
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/abdullah-farooqi-6147b839b) · [Stack Overflow](https://stackoverflow.com/users/32413507) · [YouTube](https://www.youtube.com/@A_SaFii) · [Email](mailto:abdullahfarooqi332008@gmail.com)

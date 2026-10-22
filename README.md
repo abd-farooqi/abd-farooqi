@@ -1,4 +1,4 @@
-**Abdullah Farooqi - Web Developer** [@TrueDevs](https://www.truedevs.tech)
+**Abdullah Farooqii - Web Developer** [@TrueDevs](https://www.truedevs.tech)
 
 ---
 
